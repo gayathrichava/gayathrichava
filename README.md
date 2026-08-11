@@ -130,10 +130,30 @@ Built an NLP-based classification system using 24,000+ text records.
 
 ---
 
+
 ## 🎯 What I Work With
 
 ```text
-Data Analysis       →  SQL | Python | Excel
-Business Intelligence → Power BI | DAX | Power Query
-Visualisation       →  Power BI | Tableau | Plotly | Shiny
-Machine Learning    →  Scikit-learn | NLP | NLTK
+Data Analysis          →  SQL | Python | Excel
+Business Intelligence  →  Power BI | DAX | Power Query
+Visualisation          →  Power BI | Tableau | Plotly | Shiny
+Machine Learning       →  Scikit-learn | NLP | NLTK
+```
+
+---
+
+## 🚀 What I'm Looking For
+
+I'm interested in Data Analyst, Business Analyst, and Data/Business Analytics opportunities where I can apply data analysis, visualisation, and problem-solving skills to real-world business challenges.
+
+---
+
+## 📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/gayathri-chava/)
+
+💻 [GitHub](https://github.com/gayathrichava)
+
+---
+
+### Turning data into actionable insights 📊
