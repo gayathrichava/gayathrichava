@@ -51,7 +51,7 @@ I enjoy analysing data, identifying trends, building interactive dashboards, and
 
 ## 📊 Featured Projects
 
-### 🇮🇪 Ireland Healthcare Waiting List Dashboard
+###  Ireland Healthcare Waiting List Dashboard
 
 **Power BI | Power Query | DAX | Data Analysis**
 
@@ -61,7 +61,7 @@ Interactive Power BI dashboard analysing Ireland healthcare waiting-list data ac
 
 ---
 
-### 🇬🇧 Northern Ireland Speeding Offences Analysis
+###  Northern Ireland Speeding Offences Analysis
 
 **Tableau | Data Visualisation | Data Analysis**
 
