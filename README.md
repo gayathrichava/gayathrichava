@@ -1,10 +1,10 @@
 # Hi, I'm Gayathri Chava 👋
 
-### Data Analyst | Power BI | SQL | Python | Excel | Data Visualisation
+### Data Analyst | SQL | Power BI | Tableau | Python | Excel
 
-I'm a Data Analyst with a background in Data Analytics and Computer Science, focused on transforming data into actionable insights.
+I'm a Data Analyst with a background in Data Analytics and Computer Science, focused on transforming data into clear, actionable insights.
 
-I enjoy analysing data, identifying trends, building interactive dashboards, and using data visualisation to communicate findings that support better decision-making.
+I enjoy analysing data, identifying trends, building interactive dashboards, and using data visualisation to communicate findings that support data-driven decision-making.
 
 ---
 
@@ -12,39 +12,40 @@ I enjoy analysing data, identifying trends, building interactive dashboards, and
 
 ### 📊 Data Analysis & Business Intelligence
 
-- Power BI
-- DAX
-- Power Query
-- SQL
-- Microsoft Excel
-- Business Analysis
-- Exploratory Data Analysis
-- Statistical Data Analysis
+* SQL
+* Power BI
+* DAX
+* Power Query
+* Microsoft Excel
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis
+* Statistical Data Analysis
 
 ### 🐍 Programming & Data Processing
 
-- Python
-- Pandas
-- Data Cleaning
-- Data Transformation
+* Python
+* Pandas
+* Data Cleaning
+* Data Transformation
 
 ### 📈 Data Visualisation & Dashboards
 
-- Power BI
-- Tableau
-- Plotly
-- Shiny
-- Dashboard Development
-- Data Visualisation
+* Tableau
+* Power BI
+* Plotly
+* Shiny
+* Dashboard Development
+* Data Visualisation
 
 ### 🤖 Machine Learning & NLP
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- NLTK
-- Scikit-learn
-- Text Classification
-- Feature Engineering
+* Machine Learning
+* Natural Language Processing (NLP)
+* NLTK
+* Scikit-learn
+* Text Classification
+* Feature Engineering
 
 ---
 
@@ -52,26 +53,36 @@ I enjoy analysing data, identifying trends, building interactive dashboards, and
 
 ### 🇮🇪 Ireland Healthcare Waiting List Dashboard
 
-**Power BI | Power Query | DAX | Data Analysis | Business Intelligence**
+**Power BI | Power Query | DAX | Data Analysis**
 
-Interactive Power BI dashboard analysing Ireland healthcare waiting-list data, including patient demographics, hospital-level waiting volumes, trends, and waiting-time categories.
+Interactive Power BI dashboard analysing Ireland healthcare waiting-list data across patient demographics, hospitals, waiting volumes, trends, and waiting-time categories.
 
-🔗 [View Project](https://github.com/gayathrichava/ireland-healthcare-waiting-list-dashboard)
+🔗 [View Project](../Ireland-Healthcare-Waiting-List-Dashboard)
 
 ---
 
-### 🚆 UK Railway Performance Analytics Dashboard
+### 🇬🇧 Northern Ireland Speeding Offences Analysis
+
+**Tableau | Data Visualisation | Data Analysis**
+
+Interactive Tableau dashboard analysing **218,310 speeding offences** across Northern Ireland, exploring trends by time of day, demographics, camera type, local government district, and offence outcomes.
+
+🔗 [View Project](../Northern-Ireland-Speeding-Offences-Analysis)
+
+---
+
+### 🚆 UK Railway Performance Analytics
 
 **Python | Pandas | Plotly | Shiny | Data Visualisation**
 
-Built an interactive dashboard to analyse UK railway performance metrics using 30,000+ operational records.
+Built an interactive dashboard to analyse UK railway performance using 30,000+ operational records.
 
-- Cleaned, transformed, and aggregated operational data.
-- Analysed delays, passenger flow, and route efficiency.
-- Created dynamic visualisations and automated reporting views.
-- Improved operational visibility and supported data-driven decision-making.
+* Cleaned, transformed, and aggregated operational data.
+* Analysed delays, passenger flow, and route efficiency.
+* Created interactive visualisations for exploring operational performance.
+* Developed and deployed an interactive Shiny dashboard.
 
-🔗 [View Project](https://gayathrichavaapp.shinyapps.io/railway_dashboard)
+🔗 [View Project](../UK-Railway-Performance-Analytics)
 
 ---
 
@@ -81,10 +92,10 @@ Built an interactive dashboard to analyse UK railway performance metrics using 3
 
 Built an NLP-based classification system using 24,000+ text records.
 
-- Applied tokenization, stopword removal, normalization, and Bag-of-Words vectorisation.
-- Implemented Decision Tree and Naive Bayes classification models.
-- Improved classification accuracy from 80% to 87%.
-- Evaluated performance using confusion matrices, precision-recall metrics, and cross-validation.
+* Applied tokenisation, stopword removal, normalisation, and Bag-of-Words vectorisation.
+* Implemented Decision Tree and Naive Bayes classification models.
+* Improved classification accuracy from 80% to 87%.
+* Evaluated model performance using confusion matrices, precision-recall metrics, and cross-validation.
 
 ---
 
@@ -94,57 +105,47 @@ Built an NLP-based classification system using 24,000+ text records.
 
 **Jan 2024 – Feb 2024 | Remote**
 
-- Analysed restaurant datasets to uncover cuisine, rating, and pricing trends, contributing to a 25% improvement in segmentation accuracy.
-- Performed exploratory data analysis using Python, Pandas, Seaborn, and Matplotlib.
-- Automated reporting workflows, reducing manual effort by 30%.
-- Evaluated delivery and booking data to identify growth opportunities and support data-driven decisions.
-- Delivered insights that improved marketing focus and campaign performance by 20%.
+* Analysed restaurant datasets to identify cuisine, rating, and pricing trends.
+* Performed exploratory data analysis using Python, Pandas, Seaborn, and Matplotlib.
+* Automated reporting workflows to reduce manual effort.
+* Analysed delivery and booking data to identify growth opportunities.
+* Delivered data-driven insights to support marketing and business decisions.
 
 ### Data Science Intern — 1Stop.ai
 
 **May 2023 – Jul 2023 | Remote**
 
-- Built a supervised ML and NLP model for hate-speech classification, improving accuracy from 80% to 87%.
-- Cleaned and processed 24,000+ text records using tokenization, vectorization, and normalization.
-- Implemented Decision Tree and Naive Bayes models using Bag-of-Words.
-- Improved model stability through feature engineering and NLP preprocessing.
+* Built a supervised machine learning and NLP model for hate-speech classification, improving accuracy from 80% to 87%.
+* Cleaned and processed 24,000+ text records using NLP preprocessing and vectorisation techniques.
+* Implemented Decision Tree and Naive Bayes classification models using Bag-of-Words.
+* Applied feature engineering and NLP preprocessing to improve model stability.
 
 ---
 
 ## 🎓 Education
 
 ### M.Sc. Data Analytics
-**Dundalk Institute of Technology**  
+
+**Dundalk Institute of Technology**
 2024 – 2025
 
 ### B.Tech. Computer Science and Engineering
-**Bapatla Engineering College**  
+
+**Bapatla Engineering College**
 2020 – 2024
 
 ---
 
 ## 📜 Certifications
 
-- **Deloitte Australia – Data Analytics Job Simulation** — Forage | March 2026
-- **Data Visualisation: Empowering Business with Effective Insights** — Forage | March 2026
-
----
-
-
-## 🎯 What I Work With
-
-```text
-Data Analysis          →  SQL | Python | Excel
-Business Intelligence  →  Power BI | DAX | Power Query
-Visualisation          →  Power BI | Tableau | Plotly | Shiny
-Machine Learning       →  Scikit-learn | NLP | NLTK
-```
+* **Deloitte Australia – Data Analytics Job Simulation** — Forage | March 2026
+* **Data Visualisation: Empowering Business with Effective Insights** — Forage | March 2026
 
 ---
 
 ## 🚀 What I'm Looking For
 
-I'm interested in Data Analyst, Business Analyst, and Data/Business Analytics opportunities where I can apply data analysis, visualisation, and problem-solving skills to real-world business challenges.
+I'm currently seeking **Data Analyst opportunities** where I can apply SQL, Power BI, Tableau, Python, Excel, and data visualisation to analyse real-world data, identify meaningful insights, and support data-driven business decisions.
 
 ---
 
@@ -155,5 +156,3 @@ I'm interested in Data Analyst, Business Analyst, and Data/Business Analytics op
 💻 [GitHub](https://github.com/gayathrichava)
 
 ---
-
-### Turning data into actionable insights 📊
